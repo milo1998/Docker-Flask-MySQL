@@ -2,9 +2,11 @@
 ## Facultad de Ingeniería
 ## Proyecto Curricular de Ingeniería de Sistemas
 
-### Norbey Danilo Muñoz Cañón       20151020050
-### Brayan Leonardo Sierra Forero   201510200
-### Camilo Enrique Rocha Calderón   20151020035
+### Integrantes:
+
+### * Norbey Danilo Muñoz Cañón       20151020050
+### * Brayan Leonardo Sierra Forero   20151020059
+### * Camilo Enrique Rocha Calderón   20151020035
 
 ## Gestión Tecnológica
 
