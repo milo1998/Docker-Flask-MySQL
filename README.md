@@ -2,13 +2,13 @@
 ## Facultad de Ingeniería
 ## Proyecto Curricular de Ingeniería de Sistemas
 
+## Gestión Tecnológica
+
 ### Integrantes:
 
-### * Norbey Danilo Muñoz Cañón       20151020050
-### * Brayan Leonardo Sierra Forero   20151020059
-### * Camilo Enrique Rocha Calderón   20151020035
-
-## Gestión Tecnológica
+* Norbey Danilo Muñoz Cañón       20151020050
+* Brayan Leonardo Sierra Forero   20151020059
+* Camilo Enrique Rocha Calderón   20151020035
 
 ### Ejercicio de introducción a Docker haciendo uso de las herramientas Flask y MySQL
 
